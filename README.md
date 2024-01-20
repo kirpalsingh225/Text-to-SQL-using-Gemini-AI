@@ -36,6 +36,9 @@ Run the model
     python-dotenv
     Google GenerativeAI
 
+## Architecture
+![img](https://github.com/kirpalsingh225/Text-to-SQL-using-Gemini-AI/blob/main/assets/architecture.png)
+
 
 ## User Interface and Results
 
